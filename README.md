@@ -16,7 +16,7 @@ Java Version: JDK 8 or later
 
 🚀 How to Run the Project
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/number-guessing-game.git
+git clone https://github.com/Jigyasa5/number-guessing-game.git
 cd number-guessing-game
 
 2️⃣ Compile the Java File
