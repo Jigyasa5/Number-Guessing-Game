@@ -31,14 +31,13 @@ java NumberGuessingGame
  ┣ 📜 README.md                 # Documentation
 
  
-📜 Code Explanation
-The game generates a random number between 1 and 100.
-The user has 5 attempts to guess the correct number.
-After each guess, the program provides hints ("Too high!" or "Too low!").
-If the user guesses correctly, their score increases.
-The user can choose to play again or exit after each round.
+## 📜 Code Explanation
+- The game generates a **random number between 1 and 100**.
+- The user has **5 attempts** to guess the correct number.
+- After each guess, the program provides **hints** ("Too high!" or "Too low!").
+- If the user guesses correctly, their **score increases**.
+- The user can choose to **play again or exit** after each round.
 
-📧 Contact
-For any questions or suggestions, feel free to reach out:
-📩 G-mail - jigyasavermadelhi@gmail.com
-🌐 GitHub: Jigyasa5
+## 📧 Contact  
+📩 **Gmail** - [jigyasavermadelhi@gmail.com](mailto:jigyasavermadelhi@gmail.com)  
+🌐 **GitHub** - [Jigyasa5](https://github.com/Jigyasa5)  
